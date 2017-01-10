@@ -1,0 +1,5 @@
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\RepositoryPattern\Satoskar.Models\bin\Debug\Satoskar.Models.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\RepositoryPattern\Satoskar.Models\bin\Debug\Satoskar.Models.pdb
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\RepositoryPattern\Satoskar.Models\obj\Debug\Satoskar.Models.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\RepositoryPattern\Satoskar.Models\obj\Debug\Satoskar.Models.pdb
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\RepositoryPattern\Satoskar.Models\obj\Debug\Satoskar.Models.csprojResolveAssemblyReference.cache

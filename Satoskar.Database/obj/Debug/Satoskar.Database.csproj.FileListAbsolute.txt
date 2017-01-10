@@ -1,0 +1,14 @@
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\obj\Debug\Satoskar.Database.csprojResolveAssemblyReference.cache
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\Satoskar.Database.dll.config
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\Satoskar.Database.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\Satoskar.Database.pdb
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\EntityFramework.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\Satoskar.Models.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\Satoskar.Models.pdb
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\EntityFramework.xml
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\obj\Debug\Satoskar.Database.dll
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\obj\Debug\Satoskar.Database.pdb
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\obj\Debug\Satoskar.Database.Migrations.AddTables.resources
+C:\HugeBarter Dev\Source\Sandbox\RepositoryPattern\Satoskar.Database\obj\Debug\Satoskar.Database.csproj.GenerateResource.Cache
